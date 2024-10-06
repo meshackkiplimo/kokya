@@ -1,0 +1,10 @@
+#.env
+.env
+
+package-lock.json
+package.json
+README.md
+tsconfig.json
+
+#node modules
+node_modules/
